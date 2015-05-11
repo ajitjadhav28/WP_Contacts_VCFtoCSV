@@ -88,5 +88,6 @@ if sys.argv[1]=="csv":
 			sn=fn=mn=bday=addr=p_home=p_cell=p_work=addr_type=p_ct=p_wt=p_ht=url=mail_work=mail_intr=mail_home=mail_it=mail_ht=mail_wt=""
 
 	ncn.write(csv_format+"\n"+data)
+	print(str(a)+" contacts written in "+path+".csv")
 	ncn.close()
 	cn.close()

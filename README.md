@@ -14,13 +14,13 @@ requires this types of contacts to import.
 -------------------------------------------------------------------------------------------------------------------------
 
 # How to use
-##1. Convert from vcf to csv -
+## 1. Convert from vcf to csv -
       Give csv as argument as following-
       python3 wp_vcf2csv.py csv
-##2. Convert from vcf to vcfs -
+## 2. Convert from vcf to vcfs -
       Give vcf as argument as following-
       python3 wp_vcf2csv.py vcf
-##3. Convert from multiple vcfs from directory to csv
+## 3. Convert from multiple vcfs from directory to csv
       argument - mvcf2csv -
       python3 wp_vcf2csv.py mvcf2csv
  @ Note - Always use full paths while giving file path

@@ -1,9 +1,9 @@
 # WP_Contacts_VCFtoCSV and VCFtoVCF
 Converts contacts from windows phone contacts backup which is in vcf to csv
 
-Few days ago Windows Phone grab an update to create contacts backup on sd card. 
+Few days ago Windows Phone got an update to create contacts backup on sd card. 
 It creates backup in vcf format. It is single vcf file that contains all your contacts.
-If you want to use this backup on other platforms (phones,Computers..) you need to conver it in csv format.
+If you want to use this backup on other platforms (phones,Computers, google contacts, android..) you need to conver it in csv format.
 You can also convert the file in multiple vcf files. So each file contains single contact. Some older phones
 requires this types of contacts to import.
       You can also create csv file from directory that contain multiple vcfs.
